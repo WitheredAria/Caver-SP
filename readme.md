@@ -1,1 +1,7 @@
-hello world.
+<h1>
+  Ted el Espeleísta
+</h1>
+Este es un proyecto fan de traducción del relato corto de terror 'Ted the Caver' subido originalmente a la difunta web Angelfire en 2001.
+<br>
+<br>
+El objetivo de este proyecto es recrear de manera precisa la página web original con las fotografías originales y editadas para añadir textos en español.
