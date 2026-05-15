@@ -22,3 +22,9 @@ Ted tiene un forma particular de escribir, y esta se ve reflejada, sobre todo, e
   Localización
 </h2>
 La traducción a ser neutral para el vasto público hispanohablante, pero en algún momento se encontrarán expresiones y/o modismos españoles a lo largo del relato.
+<h3>
+  Copyright
+</h3>
+Esta historia fue originalmente escrita y publicada por Ted Hegemann en 2001 en Angelfire.
+<br>
+Yo solo me reservo los derechos de traducción. El diseño html está hecho a partir del sitio original.
