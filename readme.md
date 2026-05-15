@@ -21,7 +21,7 @@ Ted tiene un forma particular de escribir, y esta se ve reflejada, sobre todo, e
 <h2>
   Localización
 </h2>
-La traducción a ser neutral para el vasto público hispanohablante, pero en algún momento se encontrarán expresiones y/o modismos españoles a lo largo del relato.
+La traducción busca ser neutral para el vasto público hispanohablante, pero en algún momento se encontrarán expresiones y/o modismos españoles a lo largo del relato.
 <h3>
   Copyright
 </h3>
