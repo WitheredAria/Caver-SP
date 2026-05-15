@@ -27,4 +27,4 @@ La traducción a ser neutral para el vasto público hispanohablante, pero en alg
 </h3>
 Esta historia fue originalmente escrita y publicada por Ted Hegemann en 2001 en Angelfire.
 <br>
-Yo solo me reservo los derechos de traducción. El diseño html está hecho a partir del sitio original.
+Yo, WitheredAria, solo me reservo los derechos de traducción. El diseño html está hecho a partir del sitio original.
